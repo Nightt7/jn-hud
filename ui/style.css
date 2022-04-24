@@ -4,12 +4,11 @@
 }
 
 
-
 #contvida{
     position: absolute;
     font-family: Boxed;
     color: white;
-    text-shadow: 2px 2px #000000;
+    text-shadow: 1px 1px #000000;
     font-size: 1.10vh;
     bottom: 0.8%;
     left: 1.6%;
@@ -28,7 +27,7 @@
     position: absolute;
     font-family: Boxed;
     color: white;
-    text-shadow: 2px 2px #000000;
+    text-shadow: 1px 1px #000000;
     font-size: 1.10vh;
     bottom: 0.8%;
     left: 8.30%;
@@ -47,7 +46,7 @@
     position: absolute;
     font-family: Boxed;
     color: white;
-    text-shadow: 2px 2px #000000;
+    text-shadow: 1px 1px #000000;
     font-size: 1.10vh;
     bottom: 0.8%;
     left: 6.05%;
@@ -66,7 +65,7 @@
     position: absolute;
     font-family: Boxed;
     color: white;
-    text-shadow: 2px 2px #000000;
+    text-shadow: 1px 1px #000000;
     font-size: 1.10vh;
     bottom: 0.8%;
     left: 3.79%;
