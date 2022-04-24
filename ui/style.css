@@ -1,0 +1,82 @@
+@font-face {
+    font-family: Boxed;
+    src: url(./thisfont.ttf);
+}
+
+
+
+#contvida{
+    position: absolute;
+    font-family: Boxed;
+    color: white;
+    text-shadow: 2px 2px #000000;
+    font-size: 1.10vh;
+    bottom: 0.8%;
+    left: 1.6%;
+}
+
+#health-icon{
+    position: absolute;
+    color: white;
+    text-shadow: 1px 1px 3px #000000;
+    font-size: 1.60vh;
+    bottom: 2.3%;
+    left: 1.7%;
+}
+
+#contshield{
+    position: absolute;
+    font-family: Boxed;
+    color: white;
+    text-shadow: 2px 2px #000000;
+    font-size: 1.10vh;
+    bottom: 0.8%;
+    left: 8.30%;
+}
+
+#shield-icon{
+    position: absolute;
+    color: white;
+    text-shadow: 1px 1px 3px #000000;
+    font-size: 1.60vh;
+    bottom: 2.3%;
+    left: 8.4%;
+}
+
+#contfood{
+    position: absolute;
+    font-family: Boxed;
+    color: white;
+    text-shadow: 2px 2px #000000;
+    font-size: 1.10vh;
+    bottom: 0.8%;
+    left: 6.05%;
+}
+
+#food-icon{
+    position: absolute;
+    color: white;
+    text-shadow: 1px 1px 3px #000000;
+    font-size: 1.60vh;
+    bottom: 2.3%;
+    left: 6.1%;
+}
+
+#contwater{
+    position: absolute;
+    font-family: Boxed;
+    color: white;
+    text-shadow: 2px 2px #000000;
+    font-size: 1.10vh;
+    bottom: 0.8%;
+    left: 3.79%;
+}
+
+#water-icon{
+    position: absolute;
+    color: white;
+    text-shadow: 1px 1px 3px #000000;
+    font-size: 1.60vh;
+    bottom: 2.3%;
+    left: 4%;
+}
