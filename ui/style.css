@@ -1,12 +1,23 @@
 @font-face {
-    font-family: Boxed;
+    font-family: jnfont;
     src: url(./thisfont.ttf);
 }
 
+body {
+    overflow: hidden;
+}
+
+.vida,.shield,.bebida,.comida{
+    transition: .7s;
+    -webkit-transition: .7s;
+    -moz-transition: .7s;
+    -ms-transition: .7s;
+    -o-transition: .7s;
+}
 
 #contvida{
     position: absolute;
-    font-family: Boxed;
+    font-family: jnfont;
     color: white;
     text-shadow: 1px 1px #000000;
     font-size: 1.10vh;
@@ -25,7 +36,7 @@
 
 #contshield{
     position: absolute;
-    font-family: Boxed;
+    font-family: jnfont;
     color: white;
     text-shadow: 1px 1px #000000;
     font-size: 1.10vh;
@@ -44,7 +55,7 @@
 
 #contfood{
     position: absolute;
-    font-family: Boxed;
+    font-family: jnfont;
     color: white;
     text-shadow: 1px 1px #000000;
     font-size: 1.10vh;
@@ -63,7 +74,7 @@
 
 #contwater{
     position: absolute;
-    font-family: Boxed;
+    font-family: jnfont;
     color: white;
     text-shadow: 1px 1px #000000;
     font-size: 1.10vh;
